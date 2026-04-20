@@ -3,6 +3,17 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Storage formats
+*.parquet
+*.csv
+*.npz
+*.npy
+*.pickle
+*.pkl
+*.hdf5
+*.h5
+*.feather
+
 # C extensions
 *.so
 
