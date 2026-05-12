@@ -7,7 +7,7 @@
 Materials for the **Efficient Algorithms (EALG)** course in the FHNW Data Science BSc program.
 This repository contains lecture notebooks, exercises, reference solutions, and profiling labs used during the course.
 
-## Project Goals
+## Goals
 
 - Build a practical understanding of core algorithms and data structures.
 - Compare algorithmic approaches using runtime and memory profiling.
