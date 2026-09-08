@@ -2,7 +2,7 @@
 
 ```text
 data_structures/
-├── README_ds.md
+├── README.md
 ├── StackAndMap.java
 ├── arrays_and_lists.ipynb
 ├── queue_and_tree.ipynb

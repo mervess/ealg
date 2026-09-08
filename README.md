@@ -27,7 +27,7 @@ This repository contains lecture notebooks, exercises, reference solutions, and 
 ealg/
 ├── algorithms/
 ├── data_structures/
-│   ├── README_ds.md
+│   ├── README.md
 |	├── StackAndMap.java
 |	├── arrays_and_lists.ipynb
 |	├── queue_and_tree.ipynb
