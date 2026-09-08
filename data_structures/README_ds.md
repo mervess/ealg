@@ -6,11 +6,14 @@ data_structures/
 ├── StackAndMap.java
 ├── arrays_and_lists.ipynb
 ├── queue_and_tree.ipynb
+├── requirements.txt
 ├── stack_and_dict_exercise.ipynb
 └── stack_and_dictionary.ipynb
 ```
 
 The notebooks in this folder are part of the learning materials. Run the cells, work through the examples, and make sure you understand how and why each data structure is used.
+
+Install the dependencies for this module using its local `requirements.txt`.
 
 ## Arrays and Lists
 Work through `arrays_and_lists.ipynb`.
@@ -24,7 +27,7 @@ Because Java has more explicitly defined data structures than Python, we start w
 To run the Java example in terminal:
 
 ```bash
-javac StackAndMap.java  # First, compile.
+javac StackAndMap.java  # First, compile via javac(ompiler).
 java StackAndMap        # Then, run.
 ```
 

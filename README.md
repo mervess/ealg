@@ -31,6 +31,7 @@ ealg/
 |	├── StackAndMap.java
 |	├── arrays_and_lists.ipynb
 |	├── queue_and_tree.ipynb
+|	├── requirements.txt
 |	├── stack_and_dict_exercise.ipynb
 |	└── stack_and_dictionary.ipynb
 ├── profiling/
@@ -56,7 +57,7 @@ All sections include exercises + _key_ notebooks for self-checking.
 
 ## Requirements
 
-Main Python dependencies are pinned in `requirements.txt`.
+Each module contains its own `requirements.txt` with the dependencies needed to run that module. The root `requirements.txt` includes the combined dependencies for all course materials.
 
 ## Setup
 
