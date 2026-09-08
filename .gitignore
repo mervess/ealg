@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+.*
+
+# Java class files
+*.class
+
 # Storage formats
 *.parquet
 *.csv
