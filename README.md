@@ -26,6 +26,8 @@ This repository contains lecture notebooks, exercises, reference solutions, and 
 ```text
 ealg/
 ├── algorithms/
+|	├── sorting_algorithms.ipynb
+|	├── sorting_exercise.ipynb
 ├── data_structures/
 │   ├── README.md
 |	├── StackAndMap.java
@@ -35,6 +37,10 @@ ealg/
 |	├── stack_and_dict_exercise.ipynb
 |	└── stack_and_dictionary.ipynb
 ├── profiling/
+|	├── profiling_exercise.ipynb
+|	├── profiling_memory.ipynb
+|	├── profiling_time.ipynb
+|	├── time_and_memory_complexity.ipynb
 ├── img/
 ├── requirements.txt
 └── README.md
@@ -46,6 +52,8 @@ All sections include exercises + _key_ notebooks for self-checking.
 
 ### 1) Algorithms (`algorithms/`)
 
+- Sorting concepts and implementations
+
 ### 2) Data Structures (`data_structures/`)
 
 - Arrays and lists
@@ -54,6 +62,9 @@ All sections include exercises + _key_ notebooks for self-checking.
 - One Java example (`StackAndMap.java`) for cross-language perspective
 
 ### 3) Profiling (`profiling/`)
+
+- Time complexity experiments
+- Memory usage analysis
 
 ## Requirements
 
