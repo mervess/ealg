@@ -38,8 +38,11 @@ ealg/
 |	└── stack_and_dictionary.ipynb
 ├── profiling/
 |	├── profiling_exercise.ipynb
+|	├── profiling_exercise_key.ipynb
 |	├── profiling_memory.ipynb
 |	├── profiling_time.ipynb
+|	├── requirements.txt
+|	├── storage_exercise.ipynb
 |	├── time_and_memory_complexity.ipynb
 ├── img/
 ├── requirements.txt
@@ -65,6 +68,7 @@ All sections include exercises + _key_ notebooks for self-checking.
 
 - Time complexity experiments
 - Memory usage analysis
+- Storage and profiling exercises
 
 ## Requirements
 

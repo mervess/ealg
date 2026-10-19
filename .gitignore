@@ -18,6 +18,7 @@ __pycache__/
 *.hdf5
 *.h5
 *.feather
+*.json
 
 # C extensions
 *.so
